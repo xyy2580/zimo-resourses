@@ -1,0 +1,8 @@
+# NAME: proxy
+# AUTHOR: zimo
+
+# 海外iptv服务
+
+# TOTAL: 10
+payload:
+  - DOMAIN-SUFFIX,dpdns.org

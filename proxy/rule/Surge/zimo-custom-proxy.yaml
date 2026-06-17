@@ -3,4 +3,7 @@
 
 # micu主线emby服务
 # DOMAIN,media.micu.hk
-DOMAIN-SUFFIX,micu.hk
+# DOMAIN-SUFFIX,micu.hk
+
+payload:
+  - DOMAIN-SUFFIX,micu.hk
