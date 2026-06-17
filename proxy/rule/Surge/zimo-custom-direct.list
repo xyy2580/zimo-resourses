@@ -1,0 +1,15 @@
+# NAME: direct
+# AUTHOR: zimo
+# micu直连emby服务
+DOMAIN,tv.micu.hk
+DOMAIN,tv1.micu.hk
+
+# 西部数码机场
+DOMAIN,wd-gold.net
+DOMAIN,api.wd-turbo.com
+
+# uhd-emby大陆服务
+DOMAIN,smart.uhdnow.com
+DOMAIN,smart2.uhdnow.com
+DOMAIN,lb-cn-a.uhdnow.online
+DOMAIN-SUFFIX,uhdnow.online

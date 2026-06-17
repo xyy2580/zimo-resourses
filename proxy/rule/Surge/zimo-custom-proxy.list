@@ -1,0 +1,7 @@
+# NAME: proxy
+# AUTHOR: zimo
+# sntp   守候网络emby服务
+DOMAIN,ncdn1.sntp.uk
+# micu主线emby服务
+# DOMAIN,media.micu.hk
+DOMAIN-SUFFIX,micu.hk
