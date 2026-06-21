@@ -13,3 +13,6 @@ DOMAIN,smart.uhdnow.com
 DOMAIN,smart2.uhdnow.com
 DOMAIN,lb-cn-a.uhdnow.online
 DOMAIN-SUFFIX,uhdnow.online
+
+# 临时直播源
+DOMAIN-SUFFIX,cdn.99998888.cc

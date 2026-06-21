@@ -24,3 +24,4 @@ payload:
   - DOMAIN,smart2.uhdnow.com
   - DOMAIN,lb-cn-a.uhdnow.online
   - DOMAIN-SUFFIX,uhdnow.online
+  - DOMAIN-SUFFIX,cdn.99998888.cc
