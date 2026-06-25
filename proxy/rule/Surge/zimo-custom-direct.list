@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,uhdnow.online
 
 # 临时直播源
 DOMAIN-SUFFIX,cdn.99998888.cc
+
+# 个人域名
+DOMAIN-SUFFIX,mu-zimo.com
